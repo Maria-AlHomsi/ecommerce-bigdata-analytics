@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "prod_00123",
+    "name": "Innovative Executive Paradigm",
+    "category": {
+      "category_id": "cat_007",
+      "category_name": "Electronics",
+      "subcategory_id": "sub_007_01",
+      "subcategory_name": "Gadgets"
+    },
+    "base_price": 129.99,
+    "current_stock": 47,
+    "is_active": true,
+    "price_history": [
+      { "price": 149.99, "date": "2024-12-20T00:00:00" },
+      { "price": 129.99, "date": "2025-02-15T00:00:00" }
+    ],
+    "creation_date": "2024-12-20T00:00:00"
+  }
+]

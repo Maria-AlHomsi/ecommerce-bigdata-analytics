@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "txn_c8d9e7f3a2b1",
+    "session_id": "sess_a7b3c9d8e2",
+    "user_id": "user_000042",
+    "timestamp": "2025-03-12T14:52:41",
+    "items": [
+      { "product_id": "prod_00123", "quantity": 2, "unit_price": 129.99, "subtotal": 259.98 }
+    ],
+    "subtotal": 259.98,
+    "discount": 25.99,
+    "total": 233.99,
+    "payment_method": "credit_card",
+    "status": "completed"
+  }
+]
